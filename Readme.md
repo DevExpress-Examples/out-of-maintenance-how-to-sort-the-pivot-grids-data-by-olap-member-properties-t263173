@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebForm1.aspx](./CS/ASPxPivotGridOLAPCustomServerModeSort/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/ASPxPivotGridOLAPCustomServerModeSort/WebForm1.aspx.vb))
+* [WebForm1.aspx.cs](./CS/ASPxPivotGridOLAPCustomServerModeSort/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/ASPxPivotGridOLAPCustomServerModeSort/WebForm1.aspx.vb))
+<!-- default file list end -->
 # How to sort the pivot grid's data by OLAP member properties
 
 
